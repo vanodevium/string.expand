@@ -1,0 +1,27 @@
+{
+  "name": "string.expand",
+  "version": "0.0.1",
+  "description": "Expand string template like URI Template",
+  "keywords": [
+    "string",
+    "expand",
+    "template"
+  ],
+  "homepage": "https://github.com/vanodevium/string.expand#readme",
+  "bugs": {
+    "url": "https://github.com/vanodevium/string.expand/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vanodevium/string.expand.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Vano Devium",
+    "email": "vano@devium.me",
+    "url": "https://devium.me"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {}
+}
